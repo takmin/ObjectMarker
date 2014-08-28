@@ -21,14 +21,8 @@ ObjectMarker‚Í•¨‘Ì”F¯/ŒŸo‚ÌŠJ”­Ò‚âŒ¤‹†Ò‚ªŠÈ’P‚ÉGround Truthƒf[ƒ^‚ğì¬‚·‚é‚
 ‚à‚µObjectMarker‚ª‚¤‚Ü‚­“®‚©‚È‚¢ê‡‚ÍAVC++2013‚Ìƒ‰ƒ“ƒ^ƒCƒ€‚ğƒCƒ“ƒXƒg[ƒ‹‚·‚é•K—v‚ª‚ ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
 ˆÈ‰º‚ÌƒTƒCƒg‚©‚ç‚¨g‚¢‚ÌƒvƒƒZƒbƒT‚É‚ ‚Á‚½ƒ‰ƒ“ƒ^ƒCƒ€‚ğ’T‚µAƒ_ƒEƒ“ƒ[ƒh‚ÆƒCƒ“ƒXƒg[ƒ‹‚ğ‚µ‚Ä‰º‚³‚¢
 
-x86ƒvƒƒZƒbƒT—pF
-http://www.microsoft.com/downloads/details.aspx?FamilyID=a7b7a05e-6de6-4d3a-a423-37bf0912db84&displayLang=ja
+http://www.microsoft.com/ja-jp/download/details.aspx?id=40784
 
-x64ƒvƒƒZƒbƒT—pF
-http://www.microsoft.com/downloads/details.aspx?FamilyID=bd512d9e-43c8-4655-81bf-9350143d5867&displayLang=ja
-
-IA64ƒvƒƒZƒbƒT—pF
-http://www.microsoft.com/downloads/details.aspx?FamilyID=1a2df53a-d8f4-4bfe-be35-152c5d3d0f82&displayLang=ja
 
 Gunawan HermanƒIƒŠƒWƒiƒ‹‚ÌObjectMarker‚ÍˆÈ‰º‚©‚çƒ_ƒEƒ“ƒ[ƒh‚Å‚«‚½‚Ì‚Å‚·‚ªAŒ»İ‚ÍƒTƒCƒg‚ª•Â‚¶‚ç‚ê‚Ä‚¢‚Ü‚·B
 http://www.cse.unsw.edu.au/~gherman/ObjectMarker.zip
