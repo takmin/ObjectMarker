@@ -17,7 +17,14 @@ ObjectMarker‚Í•¨‘Ì”F¯/ŒŸo‚ÌŠJ”­Ò‚âŒ¤‹†Ò‚ªŠÈ’P‚ÉGround Truthƒf[ƒ^‚ğì¬‚·‚é‚
 
 
 ƒ‚Q. ƒCƒ“ƒXƒg[ƒ‹„
-g‚¢•û‚ÍAzipƒtƒ@ƒCƒ‹‚ğ‰ğ“€‚µ‚ÄObjectMarker‚ğÀs‚·‚é‚¾‚¯‚Å‚·B
+ƒrƒ‹ƒh‚É‚ÍAboost‚ÆOpenCV‚ª•K—v‚Å‚·B
+boost
+http://www.boost.org/
+
+OpenCV
+http://opencv.org/
+
+ƒRƒ“ƒpƒCƒ‹Ï‚İ‚Ìƒo[ƒWƒ‡ƒ“‚ğg—p‚·‚éê‡‚ÍAObjectMarker.zip‚ğ‰ğ“€‚µ‚ÄObjectMarker‚ğÀs‚·‚é‚¾‚¯‚Å‚·B
 ‚à‚µObjectMarker‚ª‚¤‚Ü‚­“®‚©‚È‚¢ê‡‚ÍAVC++2013‚Ìƒ‰ƒ“ƒ^ƒCƒ€‚ğƒCƒ“ƒXƒg[ƒ‹‚·‚é•K—v‚ª‚ ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
 ˆÈ‰º‚ÌƒTƒCƒg‚©‚ç‚¨g‚¢‚ÌƒvƒƒZƒbƒT‚É‚ ‚Á‚½ƒ‰ƒ“ƒ^ƒCƒ€‚ğ’T‚µAƒ_ƒEƒ“ƒ[ƒh‚ÆƒCƒ“ƒXƒg[ƒ‹‚ğ‚µ‚Ä‰º‚³‚¢
 
