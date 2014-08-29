@@ -119,6 +119,15 @@ http://www.cse.unsw.edu.au/~gherman/ObjectMarker.zip
 ObjectMarkerを起動すると、<image_folder>で記述したフォルダから画像を読み込んで表示します。この画像に対してマウスで複数の四角形をドラッグで描画することができます。
 
 
+＜ライセンス＞
+本ソフトウェアは"MIT License"で公開します。
+MITライセンスについては、こちらのURL参照。
+
+http://opensource.org/licenses/MIT
+
+ただし、本ライブラリの開発に用いているOpenCVおよびBoostに関しては、それぞれのライブラリのライセンスに準じます。
+
+
 皆川卓也(z.takmin@gmail.com)
 ---------------------------------------------------------------------
 変更履歴：
