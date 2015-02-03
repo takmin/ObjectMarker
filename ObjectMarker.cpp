@@ -35,6 +35,7 @@
 #include "util_cv_functions.h"
 #include <opencv2/imgproc/imgproc.hpp>
 #include <opencv2/highgui/highgui.hpp>
+#include <boost/filesystem/path.hpp>
 #include <iostream>
 
 using namespace std;
@@ -150,20 +151,23 @@ std::vector<std::vector<cv::Rect>> ObjectMarker::reorderAnnotation(
 	const std::vector<std::string>& ref_img_list)
 {
 	assert(loaded_img_list.size() == loaded_annotation.size());
+	using namespace boost::filesystem;
 
 	std::vector<std::vector<cv::Rect>> annotation(ref_img_list.size());
 
 	int num_loaded = loaded_img_list.size();
+	int num_ref = ref_img_list.size();
 
-	for (int i = 0; i < num_loaded; i++){
-		std::vector<std::string>::const_iterator find_it
-			= std::find(ref_img_list.begin(), ref_img_list.end(), loaded_img_list[i]);
+	int i,j;
+	for (i = 0; i < num_loaded; i++){
+		path loaded_img_path = path(loaded_img_list[i]);
+		for (j = 0; j < num_ref; j++){
+			if (loaded_img_path.compare(ref_img_list[j]) == 0)
+				break;
+		}
 
-		if (find_it == ref_img_list.end())
-			continue;
-
-		int idx = (int)std::distance(ref_img_list.begin(), find_it);
-		annotation[idx] = loaded_annotation[i];
+		if (j < num_ref)
+			annotation[j] = loaded_annotation[i];
 	}
 
 	return annotation;
